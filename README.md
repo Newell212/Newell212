@@ -1,6 +1,6 @@
-### Hi there 👋 I'm Michael Newell
+# Hi there 👋 I'm Michael Newell
 
-# A hardworking and determined Full-Stack developing student
+### A hardworking and determined Full-Stack developing student
 
 
 
